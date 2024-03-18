@@ -1,0 +1,2 @@
+string.ascii_lowercase 
+'abcdefghijklmnopqrstuvwxyz'
